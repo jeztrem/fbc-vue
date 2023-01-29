@@ -1,24 +1,23 @@
 <template>
-  <div class="fbc">
+  <div >
 
-
-    <div class="w3-content w3-container w3-padding-64" id="home">
-      <h2 class="w3-center">SUPPORTED MISSIONARIES</h2>
+    <div class="container-fluid" id="home">
+      <p class="text-center fs-2 m-4">SUPPORTED MISSIONARIES</p>
     </div>
 
-    <div class="w3-content w3-container" id="about">
-      <p>
+    <div class="container-fluid" id="about">
+      <p class="text-center"><i>
         FBC holds to the belief that prayer and financial support of missionaries both here and abroad are a vital part
         of
-        the church's mission.
+        the church's mission.</i>
       </p>
     </div>
 
-    <div class="w3-content w3-container w3-padding-64" id="albaanna">
-      <h3 class="w3-center"><a href="https://swharvest.org/">Al Baanna/Serving Workers for the Harvest</a></h3>
+    <div class="container-fluid m-4" id="albaanna">
+      <p class="text-center fs-2"><a href="https://swharvest.org/">Al Baanna/Serving Workers for the Harvest</a></p>
     </div>
 
-    <div class="w3-content w3-container">
+    <div class="container-fluid">
       <p>
         Al has a Bachelor’s Degree in Business Management, and served ten years in the business world, including
         experience in international business. He then served as a pastor for a time, and now for nearly forty years in
@@ -38,11 +37,11 @@
     </div>
 
 
-    <div class="w3-content w3-container w3-padding-64" id="markandkimhuffman">
-      <h3 class="w3-center"><a href="https://www.interserve.org/">Mark and Kim Huffman</a></h3>
+    <div class="container-fluid" id="markandkimhuffman">
+      <p class="text-center fs-2 m-4"><a href="https://www.interserve.org/">Mark and Kim Huffman</a></p>
     </div>
 
-    <div class="w3-content w3-container">
+    <div class="container-fluid">
       <p>
         Mark is currently the Executive Director of Interserve USA andis determined to follow Christ wherever he leads
         and to invite others to do the same. His own trek has
@@ -55,11 +54,11 @@
     </div>
 
 
-    <div class="w3-content w3-container w3-padding-64" id="nathanandlorijohnson">
-      <h3 class="w3-center"><a href="https://www.timothytwo.org/">Mike Williamson</a></h3>
+    <div class="container-fluid">
+      <p class="text-center fs-2 m-4"><a href="https://www.timothytwo.org/">Mike Williamson</a></p>
     </div>
 
-    <div class="w3-content w3-container">
+    <div class="container-fluid">
       <p>
         Mike graduated from Columbia Bible College and Graduate School of Missions with a BA in Bible and an MA in New
         Testament. He has served as a pastor in five different churches over a 30 year span. He has been traveling
@@ -71,12 +70,12 @@
 
     </div>
 
-    <div class="w3-content w3-container w3-padding-64" id="kenya">
-      <h3 class="w3-center"><a href="https://kenya.azurewebsites.net/">Love of Christ Children's Center and School</a>
-      </h3>
+    <div class="container-fluid" id="kenya">
+      <p class="text-center fs-2 m-4"><a href="https://kenya.azurewebsites.net/">Love of Christ Children's Center and School</a>
+      </p>
     </div>
 
-    <div class="w3-content w3-container">
+    <div class="container-fluid">
       <p>
         The Love of Christ Children's Center and School is located in an impoverished area of rural Western Kenya in the
         Luucho Village near the town of Bungoma. In this area many children have lost one or both of their parents and
@@ -88,11 +87,11 @@
       </p>
     </div>
 
-    <div class="w3-content w3-container w3-padding-64" id="ukraine">
-      <h3 class="w3-center"><a href="">Arkadiy and Anneke Naydenov</a></h3>
+    <div class="container-fluid">
+      <p class="text-center fs-2 m-4"><a href="">Arkadiy and Anneke Naydenov</a></p>
     </div>
 
-    <div class="w3-content w3-container">
+    <div class="container-fluid">
       <h5>Arkadiy</h5>
       <ul style="list-style-type:none">
         <li>
@@ -160,11 +159,11 @@
     </div>
 
 
-    <div class="w3-content w3-container w3-padding-64" id="zhenya">
-      <h3 class="w3-center">Zhenya and Lidiya Bozhetarnik</h3>
+    <div class="container-fluid">
+      <p class="text-center fs-2 m-4">Zhenya and Lidiya Bozhetarnik</p>
     </div>
 
-    <div class="w3-content w3-container">
+    <div class="container-fluid">
       <p>
         Our family: Zhenya, Lidiya, Matthew and Olivia, are now moved to Kazakhstan, the south part of the country,
         which is the most muslim and traditional. God blessed and we made all paperwork and got permanent residency
@@ -183,43 +182,11 @@
       <p>With Love Bozhatarnyk's Family in Kazakhstan.</p>
     </div>
 
-    <div class="w3-content w3-container w3-padding-64" id="danandrachel">
-      <h3 class="w3-center"><a href="https://ambassadorcollege.education">Dan and Rachel Radke</a></h3>
+    <div class="container-fluid">
+      <p class="text-center fs-2 m-4"><a href="https://preghelp.com/index.php">Pregnancy Resource Center of St. Cloud</a></p>
     </div>
 
-    <div class="w3-content w3-container">
-      <p>
-        Since 2017, Dan Radke has served with Ambassador College of Bible and Ministry in Hudson, WI, a two-year Bible
-        college that exists to display God’s glory by training Christians with a biblical foundation and equipping them
-        for Christian life and ministry. Dan’s present ministry with Ambassador includes serving as a Bible instructor,
-        interim Dean of Students, library director, and admissions representative. The Lord has used his background in
-        youth ministry and Christian school teaching, along with seminary training and graduate studies in education, to
-        prepare him for this ministry.
-      </p>
-      <p>
-        At Ambassador, we aim to provide a Christ-centered higher education at a fraction of the typical cost (hence the
-        need for building a team of ministry supporters), while incorporating personal mentoring and hands-on ministry
-        opportunities. Students are trained with a Great Commission mindset to reach the world with the gospel of Jesus
-        Christ. We believe that all Christians have the responsibility and the privilege to make disciples in whatever
-        vocational calling(s) the Lord has for their lives (Matthew 28:18-20).
-      </p>
-      <p>
-        What Dan enjoys most about his role: “Faithfully teaching students God's Word is my vocational calling and
-        delight. I love the privilege I have to teach and disciple Ambassador College students, equipping them for
-        gospel-centered living and ministry.”
-      </p>
-      <p>
-        Dan and Rachel have been married for over six years, and God has blessed them with Josiah (born 2017) and
-        another little one on the way (due July 2019).
-      </p>
-    </div>
-
-
-    <div class="w3-content w3-container w3-padding-64" id="pregnancyresource">
-      <h3 class="w3-center"><a href="https://preghelp.com/index.php">Pregnancy Resource Center of St. Cloud</a></h3>
-    </div>
-
-    <div class="w3-content w3-container">
+    <div class="container-fluid">
       <p>
         The Pregnancy Resource Center's mission is to minister the love of Christ to pregnant couples. Pregnancy
         Resource Center offers free pregnancy testing, follow-up and support, limited obstetrical ultrasounds, and PAP
@@ -230,7 +197,7 @@
     </div>
 
     <!-- Footer -->
-    <footer class="w3-center w3-padding-64 ">
+    <footer class="text-center w3-padding-64 ">
       <a href="missions" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
       <div class="w3-xlarge w3-section">
         <a href="https://www.facebook.com/Fellowship-Bible-Church-296680353735238/"
@@ -243,12 +210,3 @@
   </div>
 </template>
 
-<style>
-/* @media (min-width: 1024px) {
-  .fbc {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-} */
-</style>

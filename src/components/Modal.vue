@@ -10,18 +10,10 @@ const props = defineProps({
       <div class="modal-container">
         <div class="modal-header">
           <slot name="header">default header</slot>
+          <button class="modal-button align-top" @click="$emit('close')">OK</button>
         </div>
-
-        <div class="modal-body">
+        <div>
           <slot name="body">default body</slot>
-        </div>
-
-        <div class="modal-footer">
-          <slot name="footer">
-            <button class="modal-default-button"
-              @click="$emit('close')"
-            >OK</button>
-          </slot>
         </div>
       </div>
     </div>
@@ -42,25 +34,22 @@ const props = defineProps({
 }
 
 .modal-container {
-  width: 300px;
+  width: 95%;
   margin: auto;
-  padding: 20px 30px;
+  padding: 10px 10px;
   background-color: #fff;
   border-radius: 2px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
   transition: all 0.3s ease;
+  overflow-y:visible;
 }
 
-.modal-header h3 {
+.modal-header {
   margin-top: 0;
-  color: #42b983;
 }
 
-.modal-body {
-  margin: 20px 0;
-}
 
-.modal-default-button {
+.modal-button {
   float: right;
 }
 

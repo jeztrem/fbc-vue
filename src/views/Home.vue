@@ -3,7 +3,6 @@
     <!-- First Parallax Image with FBC Text -->
     <div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
       <div class="w3-display-middle w3-container">
-        <span class="w3-xxlarge w3-text-black w3-wide">FELLOWSHIP BIBLE CHURCH</span>
       </div>  
     </div>
     <!-- Container (Announcement) -->
@@ -64,7 +63,7 @@
     <!-- Third Parallax Image -->
     <div class="bgimg-3 w3-display-container w3-opacity-min">
       <div class="w3-display-middle">
-        <span class="w3-xxlarge w3-text-gray w3-wide">OUR MISSION AND PASSION</span>
+        <span class="w3-xxlarge w3-text-black w3-wide">OUR MISSION AND PASSION</span>
       </div>
     </div>
 
@@ -118,13 +117,3 @@
     </footer>
   </div>
 </template>
-
-<!-- <style>
-@media (min-width: 1024px) {
-  .fbc {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style> -->

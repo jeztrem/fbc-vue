@@ -41,9 +41,11 @@ class Belief {
 </script>
 
 <template>
+
   <div class="container-fluid" id="home">
     <div class="fs-2 text-center pt-3">FBC BELIEFS</div>
   </div>
+
   <div class="container-fluid">
     <div v-for="belief in beliefJson">
       <div class="fs-4 mx-3">{{ belief.Topic }}</div>
@@ -53,7 +55,7 @@ class Belief {
           <div class="container-xxl">
             <div class="verse-grid mx-5">
               <div v-for="verse in section.Verses">
-                <button class="btn btn-outline-secondary text-center fs-6  " style="width: 100%;"
+                <button class="btn btn-outline-secondary text-center fs-6" style="width: 100%;"
                   @click="showModal = true, verseRef = verse.Reference, verseText = verse.Text">
                   {{ verse.Reference }}
                 </button>
@@ -64,14 +66,22 @@ class Belief {
       </div>
     </div>
   </div>
+  <!-- Footer -->
+  <footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
+    <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+    <div class="w3-xlarge w3-section">
+      <a href="https://www.facebook.com/Fellowship-Bible-Church-296680353735238/"
+        class="fa fa-facebook-official w3-hover-opacity"></a>
+    </div>
+  </footer>
 
   <Teleport to="body">
     <modal :show="showModal" @close="showModal = false;">
       <template #header>
-        <h4>{{ verseRef }}</h4>
+        <p class="fs-4">{{ verseRef }}</p>
       </template>
       <template #body>
-        <h5>{{ verseText }}</h5>
+        <p class="fs-6 mx-2">{{ verseText }}</p>
       </template>
     </modal>
   </Teleport>
