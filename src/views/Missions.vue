@@ -13,11 +13,11 @@
       </p>
     </div>
 
-    <div class="container-fluid m-4" id="albaanna">
-      <p class="text-center fs-2"><a href="https://swharvest.org/">Al Baanna/Serving Workers for the Harvest</a></p>
+    <div class="container-fluid">
+      <p class="text-left fs-5 my-4"><a href="https://swharvest.org/">Al Baanna/Serving Workers for the Harvest</a></p>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid fs-6 mx-2">
       <p>
         Al has a Bachelor’s Degree in Business Management, and served ten years in the business world, including
         experience in international business. He then served as a pastor for a time, and now for nearly forty years in
@@ -38,10 +38,10 @@
 
 
     <div class="container-fluid" id="markandkimhuffman">
-      <p class="text-center fs-2 m-4"><a href="https://www.interserve.org/">Mark and Kim Huffman</a></p>
+      <p class="text-left fs-5 my-4"><a href="https://www.interserve.org/">Mark and Kim Huffman</a></p>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid fs-6 mx-2">
       <p>
         Mark is currently the Executive Director of Interserve USA andis determined to follow Christ wherever he leads
         and to invite others to do the same. His own trek has
@@ -55,10 +55,10 @@
 
 
     <div class="container-fluid">
-      <p class="text-center fs-2 m-4"><a href="https://www.timothytwo.org/">Mike Williamson</a></p>
+      <p class="text-left fs-5 my-4"><a href="https://www.timothytwo.org/">Mike Williamson</a></p>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid fs-6 mx-2">
       <p>
         Mike graduated from Columbia Bible College and Graduate School of Missions with a BA in Bible and an MA in New
         Testament. He has served as a pastor in five different churches over a 30 year span. He has been traveling
@@ -71,11 +71,11 @@
     </div>
 
     <div class="container-fluid" id="kenya">
-      <p class="text-center fs-2 m-4"><a href="https://kenya.azurewebsites.net/">Love of Christ Children's Center and School</a>
+      <p class="text-left fs-5 my-4"><a href="https://kenya.azurewebsites.net/">Love of Christ Children's Center and School</a>
       </p>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid fs-6 mx-2">
       <p>
         The Love of Christ Children's Center and School is located in an impoverished area of rural Western Kenya in the
         Luucho Village near the town of Bungoma. In this area many children have lost one or both of their parents and
@@ -88,12 +88,12 @@
     </div>
 
     <div class="container-fluid">
-      <p class="text-center fs-2 m-4"><a href="">Arkadiy and Anneke Naydenov</a></p>
+      <p class="text-left fs-5 my-4"><a href="">Arkadiy and Anneke Naydenov</a></p>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid fs-6 mx-2">
       <h5>Arkadiy</h5>
-      <ul style="list-style-type:none">
+      <ul>
         <li>
           I was born in Uzhgorod, Ukraine, located in the Carpathian Mountains. In 1997 I entered the Odessa National
           Academy of Food Technologies, in the department of Automatic Control of Technological Processes where I
@@ -105,7 +105,7 @@
         </li>
       </ul>
       <h5>Anneke</h5>
-      <ul style="list-style-type:none">
+      <ul>
         <li>
           I was born in South Africa and moved to Ukraine in 2001 with my missionary parents. After graduating from
           homeschooling I served with Ebenezer for nine months, working with the Jews in Ukraine. I came on staff with
@@ -118,7 +118,7 @@
       </ul>
 
       <h5>Ministry Focus</h5>
-      <ul style="list-style-type:disc">
+      <ul>
         <li>
           Pastoring the Living Hope Church: Arkadiy is a pastor of the church.
         </li>
@@ -160,10 +160,10 @@
 
 
     <div class="container-fluid">
-      <p class="text-center fs-2 m-4">Zhenya and Lidiya Bozhetarnik</p>
+      <p class="text-left fs-5 my-4">Zhenya and Lidiya Bozhetarnik</p>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid fs-6 mx-2">
       <p>
         Our family: Zhenya, Lidiya, Matthew and Olivia, are now moved to Kazakhstan, the south part of the country,
         which is the most muslim and traditional. God blessed and we made all paperwork and got permanent residency
@@ -183,10 +183,10 @@
     </div>
 
     <div class="container-fluid">
-      <p class="text-center fs-2 m-4"><a href="https://preghelp.com/index.php">Pregnancy Resource Center of St. Cloud</a></p>
+      <p class="text-left fs-5 my-4"><a href="https://preghelp.com/index.php">Pregnancy Resource Center of St. Cloud</a></p>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid fs-6 mx-2">
       <p>
         The Pregnancy Resource Center's mission is to minister the love of Christ to pregnant couples. Pregnancy
         Resource Center offers free pregnancy testing, follow-up and support, limited obstetrical ultrasounds, and PAP
@@ -196,7 +196,6 @@
       </p>
     </div>
 
-    <!-- Footer -->
     <footer class="text-center w3-padding-64 ">
       <a href="missions" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
       <div class="w3-xlarge w3-section">
