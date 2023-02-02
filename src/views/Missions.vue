@@ -43,7 +43,7 @@
 
     <div class="container-fluid fs-6 mx-2">
       <p>
-        Mark is currently the Executive Director of Interserve USA andis determined to follow Christ wherever he leads
+        Mark is currently the Executive Director of Interserve USA and is determined to follow Christ wherever he leads
         and to invite others to do the same. His own trek has
         taken him from entrepreneur to pastor to global ambassador. Mark launched an IT consulting business and pastored
         a church in Minnesota before moving with his family to Ukraine. There he taught business at a university,
