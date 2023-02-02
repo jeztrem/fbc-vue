@@ -2,7 +2,7 @@
   <div >
 
     <div class="container-fluid" id="home">
-      <p class="text-center fs-2 m-4">SUPPORTED MISSIONARIES</p>
+      <p class="text-center fs-2 m-4">SUPPORTEDgit MISSIONARIES</p>
     </div>
 
     <div class="container-fluid" id="about">
